@@ -1,5 +1,5 @@
 #MeguminBot List Of Commands  
-Version: `MeguminBot v0.1.0.0`
+
 ### Administration  
 Command and aliases | Description | Usage
 ----------------|--------------|-------
