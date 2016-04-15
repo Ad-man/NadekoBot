@@ -1,8 +1,5 @@
-######For more information and how to setup your own NadekoBot, go to: **http://github.com/Kwoth/NadekoBot/**
-######You can donate on paypal: `nadekodiscordbot@gmail.com` or Bitcoin `17MZz1JAqME39akMLrVT4XBPffQJ2n1EPa`
-
-#NadekoBot List Of Commands  
-Version: `NadekoBot v0.9.5949.1923`
+#MeguminBot List Of Commands  
+Version: `MeguminBot v0.1.0.0`
 ### Administration  
 Command and aliases | Description | Usage
 ----------------|--------------|-------
