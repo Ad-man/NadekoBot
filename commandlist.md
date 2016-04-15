@@ -54,8 +54,9 @@ Command and aliases | Description | Usage
 `.uid`, `.userid`  |  Shows user ID.
 `.cid`, `.channelid`  |  Shows current channel ID.
 `.sid`, `.serverid`  |  Shows current server ID.
-`.stats`  |  Shows some basic stats for Nadeko.
-`.dysyd`  |  Shows some basic stats for Nadeko.
+`.info`, `.intro`, `.introduction`  |  Gives information about Megumin.
+`.stats`  |  Shows some basic stats for Megumin.
+`.dysyd`  |  Shows some basic stats for Megumin.
 `.heap`  |  Shows allocated memory - **Owner Only!**
 `.prune`  |  Prunes a number of messages from the current channel. |  .prune 5
 `.die`, `.graceful`  |  Shuts the bot down and notifies users about the restart. **Owner Only!**
@@ -140,7 +141,7 @@ Command and aliases | Description | Usage
 `@BotName rr`  |  Resolves a request. Only owner is able to do this.
 `@BotName uptime`  |  Shows how long Nadeko has been running for.
 `@BotName die`  |  Works only for the owner. Shuts the bot down.
-`@BotName do you love me`  |  Replies with positive answer only to the bot owner.
+`@BotName do you love me?`  |  Replies with positive answer only to the bot owner.
 `@BotName how are you`, `@BotName how are you?`  |  Replies positive only if bot owner is online.
 `@BotName insult`  |  Insults @X person. |  @NadekoBot insult @X.
 `@BotName praise`  |  Praises @X person. |  @NadekoBot praise @X.
