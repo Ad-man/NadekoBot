@@ -1,8 +1,5 @@
-######For more information and how to setup your own NadekoBot, go to: **http://github.com/Kwoth/NadekoBot/**
-######You can donate on paypal: `nadekodiscordbot@gmail.com` or Bitcoin `17MZz1JAqME39akMLrVT4XBPffQJ2n1EPa`
-
-#NadekoBot List Of Commands  
-Version: `NadekoBot v0.9.5949.1923`
+#MeguminBot List Of Commands  
+Version: `MeguminBot v0.9.5949.1923`
 ### Administration  
 Command and aliases | Description | Usage
 ----------------|--------------|-------
@@ -140,7 +137,7 @@ Command and aliases | Description | Usage
 `@BotName rr`  |  Resolves a request. Only owner is able to do this.
 `@BotName uptime`  |  Shows how long Nadeko has been running for.
 `@BotName die`  |  Works only for the owner. Shuts the bot down.
-`@BotName do you love me`  |  Replies with positive answer only to the bot owner.
+`@BotName do you love me?`  |  Replies with positive answer only to the bot owner.
 `@BotName how are you`, `@BotName how are you?`  |  Replies positive only if bot owner is online.
 `@BotName insult`  |  Insults @X person. |  @NadekoBot insult @X.
 `@BotName praise`  |  Praises @X person. |  @NadekoBot praise @X.
