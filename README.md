@@ -1,13 +1,13 @@
 ![img](https://ci.appveyor.com/api/projects/status/gmu6b3ltc80hr3k9?svg=true)
-# NadekoBot
+# MeguminBot
 
 ### [Click here to invite nadeko to your server](https://discordapp.com/oauth2/authorize?client_id=170254782546575360&scope=bot&permissions=66186303)
-[**click here for a list of commands**](https://github.com/Kwoth/NadekoBot/blob/master/commandlist.md)  
+[**click here for a list of commands**](https://github.com/Ad-man/NadekoBot/blob/master/commandlist.md)  
 Nadeko Discord chatbot written in C# using Discord.net library.  
 You might want to join my discord server where i can provide help etc. https://discord.gg/0ehQwTK2RBjAxzEY
 
 ##This section will guide you through how to setup NadekoBot
-#### For easy setup and no programming knowledge, you can use [UPDATER](https://github.com/Kwoth/NadekoUpdater/releases/latest) or download release from [releases](https://github.com/Kwoth/NadekoBot/releases) and follow the comprehensive [GUIDE](https://github.com/Kwoth/NadekoBot/blob/master/ComprehensiveGuide.md)
+#### For easy setup and no programming knowledge, you can use [UPDATER](https://github.com/Ad-man/NadekoUpdater/releases/latest) or download release from [releases](https://github.com/Ad-man/NadekoBot/releases) and follow the comprehensive [GUIDE](https://github.com/Ad-man/NadekoBot/blob/master/ComprehensiveGuide.md)
 
 In your bin/debug folder (or next to your exe if you are using release version), you must have a file called 'credentials.json' in which you will store all the necessary data to make the bot know who the owner is, and your api keys.
 
